@@ -1,0 +1,6 @@
+openai
+python-dotenv
+spacy
+pandas
+matplotlib
+jupyter
